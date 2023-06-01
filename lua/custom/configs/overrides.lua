@@ -45,6 +45,7 @@ M.mason = {
     -- c/cpp stuff
     "clangd",
     "clang-format",
+    "gopls",
   },
 }
 
